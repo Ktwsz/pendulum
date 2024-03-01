@@ -13,6 +13,7 @@ The initial conditions in this case are: $\theta(0) = \theta_0$ and $\omega(0) =
 
 # Visuals
 I use SDL2 for rendering pendulums and graph of x(t).
+![showcase](https://github.com/Ktwsz/pendulum/blob/main/readme/pendulum_running.png?raw=true)
 
 # How to use
 Run file main.exe, you will be asked to input number of pendulums, you want to simulate. Next you have to input the angle amplitude(in degrees) and length of the cord in this order, for each pendulum.
